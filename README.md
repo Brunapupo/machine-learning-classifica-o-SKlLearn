@@ -1,5 +1,4 @@
-# Projeto de Machine Learning com Google Colab
-
+# Projeto de Machine Learning com Sklearn
 ## Descrição
 
 Este projeto apresenta uma série de notebooks desenvolvidos no Google Colab que aplicam técnicas de machine learning para resolver problemas de classificação. A ênfase é dada em algoritmos de classificação e análise de dados, visando a criação de modelos replicáveis e a comparação entre métodos lineares e não lineares.
